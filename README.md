@@ -2,7 +2,7 @@
 
 How to run a brilliant sprint, brought to you by Open Strategy Partners.
 
-Read the [The Brilliant Sprint Guide!](https://github.com/drud/sprint_guide/blob/master/brilliant-sprints.md)
+Read the [The Brilliant Sprint Guide!](https://github.com/open-strategy-partners/sprint-guide/blob/main/brilliant-sprints.md)
 
 ## What is this?
 
