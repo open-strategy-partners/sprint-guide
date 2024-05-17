@@ -1,6 +1,6 @@
 # Open Source Contribution Sprint Guide
 
-How to run a brilliant contribution sprint, brought to you by Open Strategy Partners.
+How to run a brilliant contribution sprint, brought to you by [Open Strategy Partners](https://openstrategypartners.com/).
 
 -----
 
@@ -8,11 +8,11 @@ Are you planning an open community source event? You might be thinking of adding
 
 First and foremost: Thank you for your contribution to your open source community! Thank you for making sprints a part of it! This is our guide to help you run a productive and fun event. 
 
-Among the teams at DRUD Tech, Open Strategy Partners, and the open source communities and organizations we’ve been involved in over the years, we’ve been to a lot of events. We’ve contributed, coded, hacked, for thousands of hours at countless sprints. Just like we say about our open source code, you shouldn’t have to reinvent the wheel every time we run a sprint. We’ve boiled our experience down here, done research, and taken guidance from the wisdom of others–"building on the shoulders of giants"–on running a great … brilliant! … sprint.
+At Open Strategy Partners, among the open source communities and organizations we’ve been involved in over the years, we’ve been to a lot of events. We’ve contributed, coded, hacked, for thousands of hours at countless sprints. Just like we say about our open source code, you shouldn’t have to reinvent the wheel every time we run a sprint. We’ve boiled our experience down here, done research, and taken guidance from the wisdom of others–"building on the shoulders of giants"–on running a great … brilliant! … sprint.
 
 Don’t feel that you can’t run a code sprint if you can’t cover every single point in this guide. If you get power, WiFi, food and drink, and sprinters there, you’ve already got the potential for a great sprint. As you plan and look through this guide, do as much as you can manage for your sprint. When it’s done, take note of what went well and what didn’t go so well–and iterate! Do a little better next time!
 
-**Contribute to this guide -** We’d also like to know what went well for you and what we’ve forgotten or gotten wrong in your view … and that’s why this guide itself it open source and ready and waiting for your input on GitHub. [Make one more contribution and help open source communities sprint better!](https://github.com/drud/sprint_guide)
+**Contribute to this guide -** We’d also like to know what went well for you and what we’ve forgotten or gotten wrong in your view … and that’s why this guide itself it open source and ready and waiting for your input on GitHub. [Make one more contribution and help open source communities sprint better!](https://github.com/open-strategy-partners/sprint-guide/)
 
 ### Brilliant sprints
 
@@ -36,8 +36,6 @@ What does it take to make a brilliant sprint? How can you set it up to be repeat
 * **Your sprint team box:** Get a nice big box; you’re going to start gathering up all the tools you need for the day. You need more than just "Powerstrips, extension cords, lots of coffee." Print this as a final checklist of everything you need to ensure success on the day. 
 
 * **When:** Plan backward from your event and delegate as much to your volunteer team as possible. Timelines for planning, scheduling, external communications about the event, internal communications with the team, recruitment of participants, as well as what happens on the day. 
-
-[Sign up to our newsletter to get updates on the Sprint Kit.](http://eepurl.com/dlqkUD)
 
 ## Three contribution sprint event essentials 
 
@@ -116,7 +114,7 @@ Here are some typical sprint team roles:
 
     * Leads should delegate tasks. Work with your volunteer team, teach them, and delegate as much as you can. This approach will also set up these volunteers to lead successful sprints in the future. 
 
-    * See the section of this guide [When? Planning timelines for your brilliant code sprint](#heading=h.89zfx2uu72d0).
+    * See the section of this guide [When? Planning timelines for your brilliant code sprint](open-strategy-partners/sprint-guide/).
 
 * **Project Leads - in charge of specific contribution areas or projects**
 
@@ -134,8 +132,6 @@ Here are some typical sprint team roles:
 
     * How many mentors do you need? Drupal.org’s [guide for core mentoring](https://www.drupal.org/core-mentoring/sprint-resources) recommends one mentor for every eight participants.
 
-    * If your sprint is focused on Drupal 7, Drupal 8, TYPO3 CMS, Backdrop CMS, or Wordpress, with **[DDEV-Local](https://ddev.drud.com/) you can get local instances of your CMS up and working on participants’ MacOS, Linux, and Windows computers in minutes.**
-
 * **Participants - the folks who will come in to contribute and collaborate**
 
     * How many participants can the venue hold? How many can you afford to accommodate and feed and caffeinate? 
@@ -146,7 +142,7 @@ Here are some typical sprint team roles:
 
     * If you have sprint registration and mentors, ask participants about their experience level to help sort and prepare them for contribution.
 
-    * At code sprints, help them get their [local development environment set up](https://ddev.drud.com/).
+    * At code sprints, help them get their local development environment set up.
 
 * **Teams or groups**
 
@@ -164,7 +160,7 @@ Ask your mentors and leads to prepare an orientation guide for people as they co
 
 If you can run this orientation in the morning as a group, that’s great. If your sprint is running alongside or as part of another event such as a camp or conference, it’s likely you’ll get ad-hoc drop-ins. You’ll need to welcome and orient them, too. 
 
-The [Open Source Bridge wiki](http://opensourcebridge.org/wiki/2009/Effective_code_sprinting) suggests organizing the day in short iterations, such as 45 mins. You could also repeat welcome sessions around meals and social break times. Use these to remind people of the essentials (ground rules, emergency exits, etc.) and to help new arrivals get their tools set up, find the right task or project, and so on. 
+One ideas is to organize the day in short iterations, such as 45 mins. You could also repeat welcome sessions around meals and social break times. Use these to remind people of the essentials (ground rules, emergency exits, etc.) and to help new arrivals get their tools set up, find the right task or project, and so on. 
 
 > **Tip:** Keep a numbered sign-in sheet as people come in to help track how many attendees you’ve had during the sprint. Open source communities and event attendees love statistics and numbers. Tracking attendee numbers, patches, contributions, cups of coffee consumed, and so on makes for great sharing on social media and can be a great source of motivation for your community.
 
@@ -184,7 +180,7 @@ Set up a page in your community’s site or in documentation for the sprint. Mak
 
 ### Three ways to make it easier for newcomers to contribute
 
-**Helping new contributors get set up makes a huge impact -** [Researchers have found](https://www.drud.com/removing-the-biggest-barrier-to-contribution/) that the biggest barrier to open source code contribution is getting a local environment set up. Newcomers who spend a long time getting set up find it frustrating and demotivating. We’re helping sprint organizers resolve that with DDEV-Local, which provides a repeatable, quick and easy-to-install development environment. Check out [how to install DDEV](https://ddev.readthedocs.io/en/latest/#installation) and install the CMS of your choice (currently Drupal 7, Drupal 8, TYPO3 CMS, Backdrop CMS, and Wordpress) and please [sign up for our newsletter](http://eepurl.com/dlqkUD) to keep up-to-date with the latest developments around DDEV. 
+**Helping new contributors get set up makes a huge impact -** The biggest barrier to open source code contribution is getting a local environment set up. Newcomers who spend a long time getting set up find it frustrating and demotivating.  
 
 **Show them where they can help -** When preparing for your sprint, project leads should collect issues that need addressing for each project. To make it easier for people to find places they can share their expertise and enthusiasm, one recommendation is to group the issues by type of work, or expertise needed. Mozilla’s advice for newcomers on participation basics recommends that new people should "find a project you’re interested in." How are your participants going to do that? See how [Mozilla’s Global Sprint Days](http://mzl.la/global-sprint) are [organised by project](https://foundation.mozilla.org/projects/) for some ideas. 
 
@@ -400,6 +396,4 @@ Get a big container and start adding supplies to your Sprint Team Box as soon as
 
 > **Tip:** If you prep this box six weeks in advance, someone is going to "borrow" the tape, or whiteboard markers, or something else ... Come back and check the box a day or two before your sprint and make sure you have absolutely everything you need. 
 
-Have any feedback? Come and check out this [Sprint Guide](https://github.com/drud/sprint_guide) in GitHub, we’d love your feedback.
-
-[Sign up to our newsletter](http://eepurl.com/dlqkUD)
+Have any feedback? Come and check out this [Sprint Guide](https://github.com/open-strategy-partners/sprint-guide/) in GitHub, we’d love your feedback.
