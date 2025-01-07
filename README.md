@@ -1,18 +1,20 @@
-# Product Communication Guide
+# Open Source Community Contribution Sprint Guide
 
-Learn our modular approach to product communications — components to build content assets based on your technical truth.
+How to run a brilliant sprint, brought to you by Open Strategy Partners.
 
-Brought to you by Open Strategy Partners.
+Read the [The Brilliant Sprint Guide!](https://github.com/open-strategy-partners/sprint-guide/blob/main/brilliant-sprints.md)
 
-[Teach me product comms!](https://github.com/open-strategy-partners/product-comms-guide/blob/main/product-comms-guide.md)
+## What is this?
+
+Advice and consideration to ensure you have a successful contribution sprint. 
 
 ## Who is this for?
 
-This guide is for anyone wanting to write compelling content for technology products.    
+This guide is for open source community leaders who are running contribution sprints. You’re a sprint leader and you want to make sure your event is fun and productive.  
 
 ## Want to contribute?
 
-We would love your suggestions and feedback. To collaborate on the guide, create an issue in this repo or open a pull request. 
+We would love your suggestions and feedback. To collaborate on the sprint guide, create an issue in this repo or open a pull request. 
 
 ## License
 The Community Contribution Sprint Guide © 2018-present by Open Strategy Partners GmbH is licensed under CC BY-SA 4.0. See the [license](license) or read more on the Creative Commons page [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/)
@@ -25,4 +27,3 @@ The Community Contribution Sprint Guide © 2018-present by Open Strategy Partner
 **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 
 You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
-
