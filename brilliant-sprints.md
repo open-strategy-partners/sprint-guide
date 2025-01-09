@@ -8,7 +8,7 @@ Are you planning an open community source event? You might be thinking of adding
 
 First and foremost: Thank you for your contribution to your open source community! Thank you for making sprints a part of it! This is our guide to help you run a productive and fun event. 
 
-Among the teams at DRUD Tech, Open Strategy Partners, and the open source communities and organizations we’ve been involved in over the years, we’ve been to a lot of events. We’ve contributed, coded, hacked, for thousands of hours at countless sprints. Just like we say about our open source code, you shouldn’t have to reinvent the wheel every time we run a sprint. We’ve boiled our experience down here, done research, and taken guidance from the wisdom of others–"building on the shoulders of giants"–on running a great … brilliant! … sprint.
+At Open Strategy Partners, among the open source communities and organizations we’ve been involved in over the years, we’ve been to a lot of events. We’ve contributed, coded, hacked, for thousands of hours at countless sprints. Just like we say about our open source code, you shouldn’t have to reinvent the wheel every time we run a sprint. We’ve boiled our experience down here, done research, and taken guidance from the wisdom of others–"building on the shoulders of giants"–on running a great … brilliant! … sprint.
 
 Don’t feel that you can’t run a code sprint if you can’t cover every single point in this guide. If you get power, WiFi, food and drink, and sprinters there, you’ve already got the potential for a great sprint. As you plan and look through this guide, do as much as you can manage for your sprint. When it’s done, take note of what went well and what didn’t go so well–and iterate! Do a little better next time!
 
